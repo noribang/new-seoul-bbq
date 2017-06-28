@@ -14,9 +14,25 @@
 	padding-bottom: 0px;
 }
 
-.jumbotron h1, p{
+.jumbotron h1, hr, p{
+/*	border: 1px dashed red;*/
 	color: #fff;
 	text-shadow: 0.2px 0.2px 0.3px #000;
+	padding: 0px;
+}
+
+.jumbotron h1 {
+	margin-top: 80px;
+	margin-bottom: 0px;
+}
+
+.jumbotron hr {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.jumbotron p {
+/*	margin-top: 0px;*/
 }
 
 .panel-title {
