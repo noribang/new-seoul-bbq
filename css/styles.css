@@ -51,8 +51,8 @@ h2 {
 	text-align: center;
 }
 
-ul {
-/*	list-style: none;*/
+ul#hours, ul#location, ul#phone {
+	list-style: none;
 }
 
 /*#menu {
