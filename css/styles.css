@@ -55,9 +55,9 @@ ul {
 /*	list-style: none;*/
 }
 
-#hours-location {
+/*#hours-location {
 	text-align: center;
-}
+}*/
 
 #hours-location ul {
 	list-style: none; /*REMOVES BULLETS FROM LI*/
